@@ -1,4 +1,4 @@
-package Fariba.Learn.conditional.Switch;
+package Fariba.Learn.conditional.Switch.Continue;
 
 public class Continue {
     public static void main(String[] args) {
