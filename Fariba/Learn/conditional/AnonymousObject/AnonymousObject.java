@@ -7,8 +7,8 @@ package Fariba.Learn.conditional.AnonymousObject;
             }
             System.out.println("factorial is "+fact);
         }
-        public static void main(String args[]){
-            new Calculation().fact(5);//calling method with anonymous object
+        public static void main(String args[]) {
+            new AnonymousObject().fact(5);//calling method with anonymous object
         }
     }
-}
+
