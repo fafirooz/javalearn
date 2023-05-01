@@ -25,5 +25,6 @@ public class Array {
             if (key == array[i])
                 return i;
         }
+        return -1;
     }
 }

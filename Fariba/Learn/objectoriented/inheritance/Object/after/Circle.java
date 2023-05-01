@@ -36,7 +36,7 @@ public class Circle extends Object implements InterfaceWriteable { // inheritanc
         System.out.println(k);
     }
 
-    public static void print2() {aa
+    public static void print2() {
         System.out.println(k);
        // System.out.println(color);
     }
