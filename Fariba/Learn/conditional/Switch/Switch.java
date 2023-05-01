@@ -1,4 +1,4 @@
-package Fariba.Learn.conditional;
+package Fariba.Learn.conditional.Switch;
 
 public class Switch {
     public static void main(String[] args) {
