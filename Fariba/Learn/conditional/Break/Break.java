@@ -1,18 +1,17 @@
-package Fariba.Learn.conditional.Switch;
+package Fariba.Learn.conditional.Break;
 
-public class Break01 {
+public class Break {
     public static void main(String[] args) {
-        aa:
+        //outer loop
         for (int i = 1; i <= 3; i++) {
-            bb:
+            //inner loop
             for (int j = 1; j <= 3; j++) {
                 if (i == 2 && j == 2) {
-                    //using break statement with label
-                    break aa;
+                    //using break statement inside the inner loop
+                    break;
                 }
                 System.out.println(i + " " + j);
             }
         }
     }
 }
-

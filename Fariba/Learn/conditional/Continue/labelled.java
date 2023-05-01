@@ -1,14 +1,14 @@
-package Fariba.Learn.conditional.Switch;
+package Fariba.Learn.conditional.Continue;
 
-public class Break {
+public class labelled {
     public static void main(String[] args) {
-        //outer loop
+        aa:
         for (int i = 1; i <= 3; i++) {
-            //inner loop
+            bb:
             for (int j = 1; j <= 3; j++) {
                 if (i == 2 && j == 2) {
-                    //using break statement inside the inner loop
-                    break;
+                    //using continue statement with label
+                    continue aa;
                 }
                 System.out.println(i + " " + j);
             }
