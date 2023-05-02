@@ -1,4 +1,6 @@
 package Fariba.Learn.conditional.AnonymousObject;
+
+
  class AnonymousObject{
         void fact(int  n){
             int fact=1;
