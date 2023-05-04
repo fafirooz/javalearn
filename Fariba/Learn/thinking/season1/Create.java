@@ -1,4 +1,4 @@
-package Fariba.Learn.conditional;
+package Fariba.Learn.thinking.season1;
 
 public class Create {
     int a;
