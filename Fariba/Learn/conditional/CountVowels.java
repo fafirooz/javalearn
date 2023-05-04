@@ -9,6 +9,7 @@ public class CountVowels {
         System.out.print("Input the string: ");
         String str = in.nextLine();
 
+        System.out.print("Number of  Vowels in the string: " + count_Vowels(str) + "\n");
     }
 
     public static int count_Vowels(String str) {
