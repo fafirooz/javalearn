@@ -12,6 +12,8 @@ public class Days {
         days[5] = "friday";
         days[6] = "saturday";
 
+        //String[] days= {"sunday,monday, tuesday,wednesday, thursday,friday,saturday"};
+
 
         System.out.println(days.length);
         System.out.println(days[days.length - 1]);

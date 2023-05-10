@@ -7,5 +7,6 @@ public class Unicode {
         char fi= 'R';
         System.out.println(mi+ bi + fi);
         System.out.println("mi+ bi + fi");
+        System.out.println(fi);
     }
 }

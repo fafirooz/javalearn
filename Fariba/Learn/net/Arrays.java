@@ -11,10 +11,13 @@ public class Arrays {
 
         int[] adds = {1, 3, 5, 7, 9};
 
+
         for (int i = 0; i < events.length; i= i+1) {
 
             System.out.println(events[i]);
             System.out.println(adds[i]);
+
+
 
 
         }
