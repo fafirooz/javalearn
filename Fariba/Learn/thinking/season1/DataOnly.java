@@ -1,9 +1,9 @@
 package Fariba.Learn.thinking.season1;
 
 public class DataOnly {
-    int i;
-    double d;
-    boolean b;
+    int i = 1;
+    double d = 1.4;
+    boolean b = true;
 
     public static void main(String[] args){
 
